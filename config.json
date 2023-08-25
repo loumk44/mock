@@ -1,0 +1,6 @@
+{
+    "port": 3000,
+    "routes": "./mock/router.json",
+    "middlewares":[ "./mock/middlewares/decodeChinese.js",
+    "./mock/middlewares/postAsGet.js"]
+  }

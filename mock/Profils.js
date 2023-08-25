@@ -1,0 +1,11 @@
+module.exports = [{id: "1",
+nom: "ingrid",
+prenom: "lou",
+email: "ingrid@gmail.com",
+adresse: "658470120",
+codepostal: "BP:505",
+etat: "etat2",
+pays: "belgique",
+ville: "douala",
+section: "belgique1",
+region: "sud" }];
